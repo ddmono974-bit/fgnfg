@@ -1,0 +1,12 @@
+{
+  "name": "instrack-api-opt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer-core": "^21.3.0"
+  }
+}
